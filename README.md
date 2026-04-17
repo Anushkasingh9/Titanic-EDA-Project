@@ -1,16 +1,16 @@
 # 🚢 Titanic EDA Project
 
-## 📌 Overview
+##  Overview
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to uncover patterns and factors that influenced passenger survival.
 
 ---
 
-## 🎯 Objective
+##  Objective
 The goal of this project is to analyze the Titanic dataset and extract meaningful insights using data visualization and statistical analysis.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -20,7 +20,7 @@ The goal of this project is to analyze the Titanic dataset and extract meaningfu
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 - Data cleaning and handling missing values
 - Feature engineering (created "Alone" feature)
 - Univariate and bivariate analysis
@@ -28,36 +28,36 @@ The goal of this project is to analyze the Titanic dataset and extract meaningfu
 
 ---
 
-## 🔍 Key Insights
-- 👩 Females had a significantly higher survival rate than males  
-- 🏆 Passengers in 1st class had better survival chances  
-- 👶 Age played an important role in survival  
-- 🧍 People traveling alone had different survival trends  
+##  Key Insights
+-  Females had a significantly higher survival rate than males  
+-  Passengers in 1st class had better survival chances  
+-  Age played an important role in survival  
+-  People traveling alone had different survival trends  
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 - `titanic_eda.ipynb` → Main analysis notebook  
 - `titanic_data.csv` → Dataset  
 
 ---
 
-## 📈 Conclusion
+##  Conclusion
 Exploratory Data Analysis helps in understanding patterns in data and is an essential step before building machine learning models.
 
 ---
 
-## 🔗 Dataset Source
+##  Dataset Source
 - Titanic Dataset from Kaggle
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Apply Machine Learning models (Logistic Regression, Random Forest)
 - Improve feature engineering
 - Build a predictive model for survival
 
 ---
 
-## 👩‍💻 Author
+##  Author
 Anushka Singh
